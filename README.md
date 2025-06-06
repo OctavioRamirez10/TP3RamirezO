@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -20,3 +21,10 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 =======
 # TP3RamirezO
 >>>>>>> a7b6f5d8644865f614eee802f1908b4ef604f092
+=======
+ HEAD
+# TP3 - Octavio Ramírez (versión local)
+
+# Trabajo Práctico 3 - Info subida en GitHub
+ main
+>>>>>>> ed30a56e46e6a0547d08232faa628be6406457d2
